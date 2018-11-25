@@ -1,16 +1,17 @@
-=== Simply Add Text To Footer ===
-Contributors: Olha Babchenko
-Donate link: https://oshka.000webhostapp.com/
-Tags: setup, customizing
-Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 4.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+# Simply Add Text To Footer
+
+* **Contributors**: Olha Babchenko
+* **Donate link**: https://oshka.000webhostapp.com/
+* **Tags**: setup, customizing
+* **Requires at least**: 3.0.1
+* **Tested up to**: 3.4
+* **Stable tag**: 4.3
+* **License**: GPLv2 or later
+* **License URI**: http://www.gnu.org/licenses/gpl-2.0.html
 
 Adding New Text to Wordpress Footer And Editing It In Admin
 
-== Description ==
+## Description
 
 This is a simple Wordpress plugin. 
 
@@ -20,26 +21,23 @@ The text can be edited in the admin.
 
 The plugin settings page is located in the Tools section.
 
-== Installation ==
+## Installation
 
 1. Upload `wp-text` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Change text on the page "Footer Text" in Tools Menu
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions
 
-= Is this Plugin free? =
-
+**Is this Plugin free?**
 Yes, of course.
 
-= Isn't it too simple? =
+**Isn't it too simple?**
+Yes. It simple but useful
 
-Yes. It simple but useful/
+## Changelog
 
-
-== Changelog ==
-
-= 1.0 =
+### 1.0
 * First version.
 
 
